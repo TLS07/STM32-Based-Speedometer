@@ -52,6 +52,7 @@ Reset pulse count-> Delay 500 ms->Calculate speed->Display on oled using SSD1306
 
 =>core/inc(.h files)
 
+## 💠schematic
 ![Schematic](schematic.png)          
 
 
