@@ -48,7 +48,8 @@ A neodymium magnet is fixed on the vehicle’s rear sprocket. Each rotation trig
 Reset pulse count-> Delay 500 ms->Calculate speed->Display on oled using SSD1306 library
 
 ## 💠Core Code file
-=>
+=>core/src(.c files)
+=>core/inc(.h files)
 
 
 
